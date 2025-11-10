@@ -10,3 +10,6 @@ eqsig>=1.2.17
 openpyxl>=3.1.5
 python-benedict>=0.35.0
 openseespy
+streamlit>=1.28.0
+pandas>=2.0.0
+pillow>=10.0.0
